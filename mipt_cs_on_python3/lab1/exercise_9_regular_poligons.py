@@ -32,14 +32,13 @@ def draw_regular_polygon(n: int = 3, a: int = 50, x: int = 0, y: int = 0):
 
 def draw_multiple_nested_polygons(start_corner: int = 3, n: int = 3, start_radius: int = 50, step_radius: int = 5):
     """
-   Function which draw multiple polygons
-    :param step_radius:
-   :param start_corner: Quantity corners for the first polygon, must be >= 3
-   :param n: Quantity of polygons
-   :param start_radius: Radius for the first polygon
-   :param step_side: Step for radius increment
-   :return: None
-   """
+    Function which draw multiple polygons
+    :param start_corner: Quantity corners for the first polygon, must be >= 3
+    :param n: Quantity of polygons
+    :param start_radius: Radius for the first polygon
+    :param step_radius: Step for radius increment
+    :return: None
+    """
     radius = start_radius
     i: int
     for i in range(start_corner, (start_corner + n)):
