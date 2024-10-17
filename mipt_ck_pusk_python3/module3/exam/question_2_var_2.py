@@ -2,7 +2,7 @@ q = int(input())
 d = dict()
 
 for i in range(q):
-     points_list = input().split()
+     points_list = list(map(int, input().split()))
      d[points_list[1]] = points_list[0]
 
 keys = list(d.keys())
