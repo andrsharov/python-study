@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c55a5bac-6e9e-4aea-b4ef-8b66a6ad47f8" name="Changes" comment="2.2.A">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week10/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-study.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;andrsharov&quot;,
+      &quot;author&quot;: &quot;andrsharov&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;andrsharov&quot;,
+    &quot;author&quot;: &quot;andrsharov&quot;
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:andrsharov/python-study.git&quot;,
+    &quot;accountId&quot;: &quot;3e48b3e2-c10a-4322-bd7b-1d89133e8f6a&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mipt_ck_pusk_python3/module1/README.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="219E7wYVxmabZDMQ5Z2G3D8FYp8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in test_module.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.F.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.G.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.H.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.I.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.J.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.K.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.L.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.N.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.O.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.P.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.R.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.S.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.1.T.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_N_tasks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_K_by_ascending.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_programmers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.call_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quadratic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_2_var_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.question_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smart_home_ref.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/mnt/tank/git/github/andrsharov/python-study/mipt_ck_pusk_python3/module1/week9&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week9" />
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week8/exercises" />
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week7/exercises" />
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week6/exercises" />
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week5/exam" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3/module1" />
+      <recent name="$PROJECT_DIR$/mipt_ck_pusk_python3" />
+      <recent name="$PROJECT_DIR$/mipt_cs_on_python3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2.1.A">
+    <configuration name="1_factorial" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_contest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_contest/1_factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.1.A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yandex/handbook/python/2.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yandex/handbook/python/2.2/2.1.A.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.1.T" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yandex/handbook/python/2.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yandex/handbook/python/2.1/2.1.T.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="question_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week4/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week4/exercises/question_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mipt_ck_pusk_python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mipt_ck_pusk_python3/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2.1.A" />
+        <item itemvalue="Python.question_1" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.2.1.T" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55a5bac-6e9e-4aea-b4ef-8b66a6ad47f8" name="Changes" comment="" />
+      <created>1637344741304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637344741304</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add README.md">
+      <created>1637344856605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637344856605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add lab1 examples">
+      <created>1637344945402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637344945402</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add lab1 examples">
+      <created>1637344973275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637344973275</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add exercise 9 regular polygons">
+      <created>1637448443340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637448443340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Correct func description">
+      <created>1637448687600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637448687600</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add exercise 10 flower">
+      <created>1637506431127</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637506431127</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add exercise 11 butterfly">
+      <created>1637508218837</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637508218837</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add exercise 12 spring">
+      <created>1637509582677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637509582677</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add exercise 13 smile">
+      <created>1637613291748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637613291748</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add exercise 14 n sides start">
+      <created>1637616411509</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637616411509</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task_1.py">
+      <created>1638111396351</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111396352</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task_2.py">
+      <created>1638111412418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111412418</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task_2.py">
+      <created>1638111424511</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111424511</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task_3.py">
+      <created>1638111656539</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111656539</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task_3.py">
+      <created>1638111666979</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111666979</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task_5.py">
+      <created>1638111882783</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1638111882783</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task_6.py">
+      <created>1638112057754</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638112057754</updated>
+    </task>
+    <task id="LOCAL-00018" summary="task_7.py">
+      <created>1638112464347</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1638112464347</updated>
+    </task>
+    <task id="LOCAL-00019" summary="task_8.py">
+      <created>1638112691345</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1638112691345</updated>
+    </task>
+    <task id="LOCAL-00020" summary="task_9.py">
+      <created>1638113275036</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1638113275036</updated>
+    </task>
+    <task id="LOCAL-00021" summary="task_10.py">
+      <created>1638113444169</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1638113444169</updated>
+    </task>
+    <task id="LOCAL-00022" summary="task_11.py">
+      <created>1638113582349</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638113582349</updated>
+    </task>
+    <task id="LOCAL-00023" summary="task_12.py">
+      <created>1638113778056</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1638113778056</updated>
+    </task>
+    <task id="LOCAL-00024" summary="task_13.py">
+      <created>1638114029203</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1638114029203</updated>
+    </task>
+    <task id="LOCAL-00025" summary="task_14.py">
+      <created>1638114651181</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1638114651181</updated>
+    </task>
+    <task id="LOCAL-00026" summary="task_15.py">
+      <created>1638116234979</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1638116234979</updated>
+    </task>
+    <task id="LOCAL-00027" summary="task_16.py">
+      <created>1638116709748</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638116709748</updated>
+    </task>
+    <task id="LOCAL-00028" summary="task_17.py">
+      <created>1638117102586</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1638117102586</updated>
+    </task>
+    <task id="LOCAL-00029" summary="task_18.py">
+      <created>1639318422227</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1639318422227</updated>
+    </task>
+    <task id="LOCAL-00030" summary="task_19.py">
+      <created>1639319562804</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1639319562804</updated>
+    </task>
+    <task id="LOCAL-00031" summary="task_20.py">
+      <created>1639321391626</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1639321391626</updated>
+    </task>
+    <task id="LOCAL-00032" summary="task_21.py">
+      <created>1639327349415</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1639327349415</updated>
+    </task>
+    <task id="LOCAL-00033" summary="task_22.py">
+      <created>1639330715728</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1639330715728</updated>
+    </task>
+    <task id="LOCAL-00034" summary="task_23.py">
+      <created>1639422620650</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1639422620650</updated>
+    </task>
+    <task id="LOCAL-00035" summary="task_24.py">
+      <created>1640724496342</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1640724496342</updated>
+    </task>
+    <task id="LOCAL-00036" summary="task_25.py">
+      <created>1640725284362</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1640725284362</updated>
+    </task>
+    <task id="LOCAL-00037" summary="task_26.py">
+      <created>1640726342264</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1640726342265</updated>
+    </task>
+    <task id="LOCAL-00038" summary="task_27.py">
+      <created>1640808013031</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1640808013031</updated>
+    </task>
+    <task id="LOCAL-00039" summary="task_28.py">
+      <created>1640808316146</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1640808316146</updated>
+    </task>
+    <task id="LOCAL-00040" summary="task_29.py">
+      <created>1640808734870</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1640808734870</updated>
+    </task>
+    <task id="LOCAL-00041" summary="task_30.py">
+      <created>1640810318840</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1640810318840</updated>
+    </task>
+    <task id="LOCAL-00042" summary="task_31.py">
+      <created>1642963036552</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1642963036552</updated>
+    </task>
+    <task id="LOCAL-00043" summary="task_32.py">
+      <created>1642965190767</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1642965190767</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Service files">
+      <created>1642965228031</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1642965228031</updated>
+    </task>
+    <task id="LOCAL-00045" summary="lab4">
+      <created>1645380826447</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1645380826447</updated>
+    </task>
+    <task id="LOCAL-00046" summary="lab4">
+      <created>1645380839574</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1645380839574</updated>
+    </task>
+    <task id="LOCAL-00047" summary="lab5 init commit">
+      <created>1645470355304</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1645470355304</updated>
+    </task>
+    <task id="LOCAL-00077" summary="2.1.T">
+      <option name="closed" value="true" />
+      <created>1732741927252</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1732741927252</updated>
+    </task>
+    <task id="LOCAL-00078" summary="2.2.A">
+      <option name="closed" value="true" />
+      <created>1732830339701</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1732830339701</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="env setup" />
+    <MESSAGE value="module2" />
+    <MESSAGE value="module1 - fix" />
+    <MESSAGE value="book" />
+    <MESSAGE value="module3 - fix" />
+    <MESSAGE value="module4" />
+    <MESSAGE value="module4 - add" />
+    <MESSAGE value="refactor" />
+    <MESSAGE value="week5" />
+    <MESSAGE value="Add README.md" />
+    <MESSAGE value="week6 init" />
+    <MESSAGE value="week6 - exam" />
+    <MESSAGE value="index" />
+    <MESSAGE value="week7" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="week8" />
+    <MESSAGE value="week8 - fix" />
+    <MESSAGE value="2.1" />
+    <MESSAGE value="week9 - init commit" />
+    <MESSAGE value="week9" />
+    <MESSAGE value="week7 - fix" />
+    <MESSAGE value="2.1 - some solutions" />
+    <MESSAGE value="week9 - fix" />
+    <MESSAGE value="2.1.T" />
+    <MESSAGE value="2.2.A" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2.A" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mipt_cs_on_python3/lab1/exercise_10_flower.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mipt_ck_pusk_python3/module1/week7/examples/fibonacci_iter.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
