@@ -10,9 +10,9 @@ row_counter = len(soup.find_all('th', attrs={"scope": "row", "class": "plainlist
 #3.Количество слов в статье без учёта тегов.
 words_counter = len(soup.get_text().split())
 #4.Количество дат в статье, соответствующих паттерну “1 января 2000”, “26 февраля 2023”, “31 марта 2019”
-dates_validate_pattern = re.compile('([0]?[1-9]|[12][0-9]|[3][01]) [ЁёА-я]{3,30} [0-9]{4}')
+#dates_validate_pattern = re.compile('([0]?[1-9]|[12][0-9]|[3][01]) [ЁёА-я]{3,30} [0-9]{4}')
 #dates_validate_pattern = re.compile('(\\d{1,2})[\\s\\u0020][ЁёА-я]{3,30}[\\s\\u0020]\\d{4}')
-#dates_validate_pattern = re.compile('([0]?[1-9]|[12][0-9]|[3][01])\\s(января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря)\\s(\\d{4})')
+dates_validate_pattern = re.compile('([0]?[1-9]|[12][0-9]|[3][01])\\s(января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря)\\s(\\d{4})')
 #dates_validate_pattern = r'(\d{1,2})\s(января|февраля|марта|апреля|мая|июня|июля|августа|сентября|октября|ноября|декабря)\s(\d{4})'
 dates_text = soup.get_text()
 dates_counter = len(re.findall(dates_validate_pattern, dates_text)) + 4
